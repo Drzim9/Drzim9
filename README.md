@@ -12,7 +12,7 @@ JavaScript: Continuo explorando e aprofundando meus conhecimentos.
 CSS: Melhorando técnicas de design e layout.
 
 Conecte-se Comigo:
-https://www.instagram.com/drzim.py?igsh=NXg2bW1kYnRlMXAz
 dnlmagalhaes2009@gmail.com
 61 99973-0679
+
 
