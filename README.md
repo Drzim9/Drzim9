@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Drzim9
-- 👀 I’m interested ser um bom programador.
-- 🌱 I’m currently learning javascrip.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me email. dnlmagalhaes2009@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: tenho 14 anos.
+Daniel Magalhães
+Sobre Mim:
+Olá! Sou Daniel, um entusiasta da tecnologia de 14 anos. Estou focado em aprender e aprimorar minhas habilidades em desenvolvimento front-end, especialmente em HTML, CSS e JavaScript.
 
-<!---
-Drzim9/Drzim9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Habilidades:
+HTML: Estruturação de páginas web.
+CSS: Estilização e design responsivo.
+JavaScript: Interatividade e funcionalidades dinâmicas.
+
+Em Aprendizado:
+JavaScript: Continuo explorando e aprofundando meus conhecimentos.
+CSS: Melhorando técnicas de design e layout.
+
+Conecte-se Comigo:
+https://www.instagram.com/drzim.py?igsh=NXg2bW1kYnRlMXAz
